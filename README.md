@@ -1,5 +1,5 @@
 # T-OS-Kernel
-my biggest project ever! a whole flipping kernel
-In future Im planning to turn this into a full os.
+World's most basic kernel 
+It just prints some text
 NB:This kernel is baded on different open source kernel
 
